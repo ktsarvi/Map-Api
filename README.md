@@ -1,2 +1,3 @@
 # Map-Api
-Some map site for the training sessions using map API
+Simple site for the training sessions using map API
+I have designed this project while taking JS course.
